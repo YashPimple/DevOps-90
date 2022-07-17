@@ -22,7 +22,7 @@
 
 ## YAML
 - [ ] [Introduction to YAML](https://youtu.be/1uFVr15xDGg)
-- [ ] [Introduction to YAML (Kunal Kushwaha)](https://youtu.be/IA90BTozdow)
+- [:heavy_check_mark: ] [Introduction to YAML (Kunal Kushwaha)](https://youtu.be/IA90BTozdow)
 
 ## Git
 - [ ] [Git and GitHub crash course (freecodecamp)](https://youtu.be/RGOj5yH7evk)
