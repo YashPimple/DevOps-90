@@ -21,7 +21,7 @@
 - [:heavy_check_mark:] [Computer Networking Full course (Kunal Kushwaha)](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=3&t=13131s)
 
 ## YAML
-- [ ] [Introduction to YAML](https://youtu.be/1uFVr15xDGg)
+- [:heavy_check_mark: ] [Introduction to YAML](https://youtu.be/1uFVr15xDGg)
 - [:heavy_check_mark: ] [Introduction to YAML (Kunal Kushwaha)](https://youtu.be/IA90BTozdow)
 
 ## Git
