@@ -33,7 +33,7 @@
 - [ ] [AWS cloud practitioner (freecodecamp)](https://youtu.be/SOTamWNgDKc)
 
 ## docker
-- [ ] [Docker Tutorial for begineer](https://www.youtube.com/watch?v=17Bl31rlnRM&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=6)
+- [:heavy_check_mark: ] [Docker Tutorial for begineer](https://www.youtube.com/watch?v=17Bl31rlnRM&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=6)
 - [ ] [Docker playlist by Saloni](https://www.youtube.com/playlist?list=PL5uLNcv9SibBZj30yqG01a7A4_MXSyGK3)
 - [ ] [Docker ((freecodecamp)](https://youtu.be/9zUHg7xjIqQ)
 - [ ] [Docker (Techworldwithnana)](https://youtu.be/3c-iBn73dDE)
