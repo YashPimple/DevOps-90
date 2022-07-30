@@ -45,7 +45,7 @@
 - [ ] [Ivan container articles](https://iximiuz.com/en/categories/?category=Containers)
 
 ## Kubernetes
-- [ ] [Kubernetes Tutorial for begineer](https://www.youtube.com/watch?v=KVBON1lA9N8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=7)
+- [:heavy_check_mark:] [Kubernetes Tutorial for begineer](https://www.youtube.com/watch?v=KVBON1lA9N8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=7)
 - [ ] [Civo Academy](https://civo.com/academy)
 - [ ] [Kubernetes course (techworldwithnana)](https://youtu.be/X48VuDVv0do)
 - [ ] [Kube academy](https://kube.academy/)
