@@ -36,7 +36,7 @@
 - [:heavy_check_mark: ] [Docker Tutorial for begineer](https://www.youtube.com/watch?v=17Bl31rlnRM&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=6)
 - [ ] [Docker playlist by Saloni](https://www.youtube.com/playlist?list=PL5uLNcv9SibBZj30yqG01a7A4_MXSyGK3)
 - [ ] [Docker ((freecodecamp)](https://youtu.be/9zUHg7xjIqQ)
-- [ ] [Docker (Techworldwithnana)](https://youtu.be/3c-iBn73dDE)
+- [:heavy_check_mark: ] [Docker (Techworldwithnana)](https://youtu.be/3c-iBn73dDE)
 - [ ] [Docker deep dive by Nigel](https://youtu.be/GwXLNAcHk-k)
 - [ ] [Dockerfile best practices](https://youtu.be/JofsaZ3H1qM)
 - [ ] [Docker security essentials](https://youtu.be/KINjI1tlo2w)
