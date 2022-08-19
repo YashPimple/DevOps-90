@@ -47,7 +47,7 @@
 ## Kubernetes
 - [:heavy_check_mark:] [Kubernetes Tutorial for begineer](https://www.youtube.com/watch?v=KVBON1lA9N8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=7)
 - [ ] [Civo Academy](https://civo.com/academy)
-- [ ] [Kubernetes course (techworldwithnana)](https://youtu.be/X48VuDVv0do)
+- [:heavy_check_mark: ] [Kubernetes course (techworldwithnana)](https://youtu.be/X48VuDVv0do)
 - [ ] [Kube academy](https://kube.academy/)
 - [ ] [Introduction to Kubernetes (edx)](https://www.edx.org/course/introduction-to-kubernetes)
 - [ ] [KCNA](https://youtu.be/iGkFHB1kFZ0)
