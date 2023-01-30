@@ -49,11 +49,12 @@
 - [ ] [Civo Academy](https://civo.com/academy)
 - [:heavy_check_mark: ] [Kubernetes course (techworldwithnana)](https://youtu.be/X48VuDVv0do)
 - [ ] [Kube academy](https://kube.academy/)
-- [ ] [Introduction to Kubernetes (edx)](https://www.edx.org/course/introduction-to-kubernetes)
+- [:heavy_check_mark:] [Introduction to Kubernetes (edx)](https://www.edx.org/course/introduction-to-kubernetes)
 - [ ] [KCNA](https://youtu.be/iGkFHB1kFZ0)
 - [ ] [Hands on CKA/CKAD/CKS](https://youtu.be/jZOs8Oips7Q)
 - [ ] [Certs Magic show](https://www.youtube.com/playlist?list=PLj6h78yzYM2MOZst3T8t2qpsdwBpyxWwy)
 - [ ] [CKS book](https://saiyampathak.gumroad.com/l/cksbook)
+- [:heavy_check_mark:] [Intro to Helm and Handson Tutorial](https://www.youtube.com/watch?v=gg-GuHs8Nsk&list=PLnFWJCugpwfzCjufOk52ufg7CDxpLEmXi&index=2)
 
 ## CI/CD
 - [ ] [Jenkins complete course](https://youtu.be/FX322RVNGj4)
