@@ -59,6 +59,7 @@
 ## CI/CD
 - [ ] [Jenkins complete course](https://youtu.be/FX322RVNGj4)
 - [ ] [Github actions (techworldwithnana)](https://youtu.be/R8_veQiYBjI)
+- [:heavy_check_mark:]  [Learn Jenkins](https://www.youtube.com/watch?v=6YZvp2GwT0A&t=2178s)
 - [ ] [GitHub actions with cloud run](https://youtu.be/eooi60Mks_0)
 - [ ] [CI/CD week](https://www.youtube.com/playlist?list=PL5uLNcv9SibC0Osfk9Nhf7MgP2UNzZkDR)
 - [ ] [Get Certified for GitOps with Argo](https://codefresh.learnworlds.com/)
