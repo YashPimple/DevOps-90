@@ -14,29 +14,29 @@
 
 
 ## Getting Started
-- [:heavy_check_mark:] [DevOps Prerequisite (freecodecamp)](https://youtu.be/Wvf0mBNGjXY)
+- [X] [DevOps Prerequisite (freecodecamp)](https://youtu.be/Wvf0mBNGjXY)
 - [ ] [CCNA part 1](https://youtu.be/rv3QK2UquxM)
 - [ ] [Golang complete course (techworldwithnana)](https://youtu.be/yyUHQIec83I)
-- [:heavy_check_mark:] [Introduction to linux and Terminal Command](https://www.youtube.com/watch?v=iwolPf6kN-k&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=4&t=6189s)
-- [:heavy_check_mark:] [Computer Networking Full course (Kunal Kushwaha)](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=3&t=13131s)
+- [X] [Introduction to linux and Terminal Command](https://www.youtube.com/watch?v=iwolPf6kN-k&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=4&t=6189s)
+- [X] [Computer Networking Full course (Kunal Kushwaha)](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=3&t=13131s)
 
 ## YAML
-- [:heavy_check_mark: ] [Introduction to YAML](https://youtu.be/1uFVr15xDGg)
-- [:heavy_check_mark: ] [Introduction to YAML (Kunal Kushwaha)](https://youtu.be/IA90BTozdow)
+- [X] [Introduction to YAML](https://youtu.be/1uFVr15xDGg)
+- [X] [Introduction to YAML (Kunal Kushwaha)](https://youtu.be/IA90BTozdow)
 
 ## Git
 - [ ] [Git and GitHub crash course (freecodecamp)](https://youtu.be/RGOj5yH7evk)
-- [:heavy_check_mark: ] [Complete Git and GitHub Tutorial (Kunal Kushwaha)](https://youtu.be/apGV9Kg7ics)
+- [X] [Complete Git and GitHub Tutorial (Kunal Kushwaha)](https://youtu.be/apGV9Kg7ics)
 - [ ] [Git for Professionals (freecodecamp)](https://youtu.be/Uszj_k0DGsg)
 
 ## cloud
 - [ ] [AWS cloud practitioner (freecodecamp)](https://youtu.be/SOTamWNgDKc)
 
 ## docker
-- [:heavy_check_mark: ] [Docker Tutorial for begineer](https://www.youtube.com/watch?v=17Bl31rlnRM&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=6)
+- [X] [Docker Tutorial for begineer](https://www.youtube.com/watch?v=17Bl31rlnRM&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=6)
 - [ ] [Docker playlist by Saloni](https://www.youtube.com/playlist?list=PL5uLNcv9SibBZj30yqG01a7A4_MXSyGK3)
 - [ ] [Docker ((freecodecamp)](https://youtu.be/9zUHg7xjIqQ)
-- [:heavy_check_mark: ] [Docker (Techworldwithnana)](https://youtu.be/3c-iBn73dDE)
+- [X] [Docker (Techworldwithnana)](https://youtu.be/3c-iBn73dDE)
 - [ ] [Docker deep dive by Nigel](https://youtu.be/GwXLNAcHk-k)
 - [ ] [Dockerfile best practices](https://youtu.be/JofsaZ3H1qM)
 - [ ] [Docker security essentials](https://youtu.be/KINjI1tlo2w)
@@ -45,22 +45,22 @@
 - [ ] [Ivan container articles](https://iximiuz.com/en/categories/?category=Containers)
 
 ## Kubernetes
-- [:heavy_check_mark:] [Kubernetes Tutorial for begineer](https://www.youtube.com/watch?v=KVBON1lA9N8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=7)
+- [X] [Kubernetes Tutorial for begineer](https://www.youtube.com/watch?v=KVBON1lA9N8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=7)
 - [ ] [Civo Academy](https://civo.com/academy)
-- [:heavy_check_mark: ] [Kubernetes course (techworldwithnana)](https://youtu.be/X48VuDVv0do)
+- [X] [Kubernetes course (techworldwithnana)](https://youtu.be/X48VuDVv0do)
 - [ ] [Kube academy](https://kube.academy/)
-- [:heavy_check_mark:] [Introduction to Kubernetes (edx)](https://www.edx.org/course/introduction-to-kubernetes)
+- [X] [Introduction to Kubernetes (edx)](https://www.edx.org/course/introduction-to-kubernetes)
 - [ ] [KCNA](https://youtu.be/iGkFHB1kFZ0)
 - [ ] [Hands on CKA/CKAD/CKS](https://youtu.be/jZOs8Oips7Q)
 - [ ] [Certs Magic show](https://www.youtube.com/playlist?list=PLj6h78yzYM2MOZst3T8t2qpsdwBpyxWwy)
 - [ ] [CKS book](https://saiyampathak.gumroad.com/l/cksbook)
-- [:heavy_check_mark:] [Intro to Helm and Handson Tutorial](https://www.youtube.com/watch?v=gg-GuHs8Nsk&list=PLnFWJCugpwfzCjufOk52ufg7CDxpLEmXi&index=2)
+- [X] [Intro to Helm and Handson Tutorial](https://www.youtube.com/watch?v=gg-GuHs8Nsk&list=PLnFWJCugpwfzCjufOk52ufg7CDxpLEmXi&index=2)
 
 ## CI/CD
 - [ ] [Jenkins complete course](https://youtu.be/FX322RVNGj4)
 - [ ] [Github actions (techworldwithnana)](https://youtu.be/R8_veQiYBjI)
-- [:heavy_check_mark:]  [Learn Jenkins](https://www.youtube.com/watch?v=6YZvp2GwT0A&t=2178s)
-- [:heavy_check_mark:] [Jenkins Tutorial(FCC) ](https://www.youtube.com/watch?v=f4idgaq2VqA)
+- [X]  [Learn Jenkins](https://www.youtube.com/watch?v=6YZvp2GwT0A&t=2178s)
+- [X] [Jenkins Tutorial(FCC) ](https://www.youtube.com/watch?v=f4idgaq2VqA)
 - [ ] [GitHub actions with cloud run](https://youtu.be/eooi60Mks_0)
 - [ ] [CI/CD week](https://www.youtube.com/playlist?list=PL5uLNcv9SibC0Osfk9Nhf7MgP2UNzZkDR)
 - [ ] [Get Certified for GitOps with Argo](https://codefresh.learnworlds.com/)
@@ -100,3 +100,12 @@
 
 ## Servicemesh
 - [ ] [Introduction to Service mesh with Linkerd](https://www.edx.org/course/introduction-to-service-mesh-with-linkerd)
+
+## DevOps Project
+- [X] [Docker kubernetes java project](https://www.youtube.com/watch?v=0GgBi8yNQT4&t=1648s)
+
+# Sample Project Ideas
+
+- [11 Projects With Go](https://www.youtube.com/watch?v=jFfo23yIWac)
+- [DevOps Project](https://www.youtube.com/playlist?list=PLxzKY3wu0_FJdJd3IKdiM4Om1hGo2Hsdt)
+- [20 Real Time DevOps Projects](https://youtube.com/playlist?list=PLkWRCY_kK0Gh1NTvgHUE0naF4-mOURp7e)
