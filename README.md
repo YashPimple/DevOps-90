@@ -6,7 +6,7 @@
 -The reason for documenting my journey and sharing my notes is to inspire people to learn DevOps and they can also the something from it.
 
 -Goal
-90 Days -> 1 hour/day => tackle over 13 areas of DevOps to a foundational knowledge.
+90 Days -> 1-2 hour/day => tackle over 13 areas of DevOps to a foundational knowledge.
 
 => Inspired from [Michael Cade's 90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 
