@@ -43,6 +43,7 @@
 - [ ] [Auditing Docker security](https://youtu.be/mQkVB6KMHCg)
 - [ ] [Docker in a visual way](https://aurelievache.gumroad.com/l/understanding-docker-visual-way)
 - [ ] [Ivan container articles](https://iximiuz.com/en/categories/?category=Containers)
+- [X] [Build a NodeJS Application With Docker](https://www.youtube.com/watch?v=PsWeSg38XFY&feature=youtu.be)
 
 ## Kubernetes
 - [X] [Kubernetes Tutorial for begineer](https://www.youtube.com/watch?v=KVBON1lA9N8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=7)
