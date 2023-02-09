@@ -66,6 +66,14 @@
 - [ ] [CI/CD week](https://www.youtube.com/playlist?list=PL5uLNcv9SibC0Osfk9Nhf7MgP2UNzZkDR)
 - [ ] [Get Certified for GitOps with Argo](https://codefresh.learnworlds.com/)
 
+## Configuration Management
+
+- [ ] [Chef Vs Puppet Vs Ansible](https://www.youtube.com/watch?v=_TVNCTK808I)
+- [ ] [What Is Ansible](https://www.youtube.com/watch?v=wgQ3rHFTM4E)
+- [ ] [Chef,Puppet,Ansible Course](https://www.youtube.com/watch?v=O1s16cYzC10)
+- [ ] [Ansible Docs](https://docs.ansible.com/ansible/latest/index.html)
+- [ ] [Ansible Tutorial for Beginners: Ultimate Playbook & Examples - Spacelift](https://spacelift.io/blog/ansible-tutorial)
+
 ## IAC tools
 - [ ] [Terrafrom in 2 hours (freecodecamp)](https://youtu.be/SLB_c_ayRMo)
 - [ ] [Hashicorp terraform accociate certification (freecodecamp)](https://youtu.be/V4waklkBC38)
