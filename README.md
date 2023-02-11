@@ -3,6 +3,7 @@
 ![alt text](https://camo.githubusercontent.com/ca0d537a519d9ff9c7b9508798a2e4976857415daa26055349496fa922754b3e/68747470733a2f2f692e6962622e636f2f7942724e514e6e2f6465766f70732d62616e6e65722e706e67)
 -This repository is used to document my journey on learning DevOps with [Saiyam Pathak] and getting a better foundational knowledge of Devops.I started my journey on the 11th July 2022.
 
+
 -The reason for documenting my journey and sharing my notes is to inspire people to learn DevOps and they can also the something from it.
 
 -Goal
