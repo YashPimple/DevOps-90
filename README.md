@@ -60,7 +60,7 @@
 
 ## CI/CD
 - [ ] [Jenkins complete course](https://youtu.be/FX322RVNGj4)
-- [ ] [Github actions (techworldwithnana)](https://youtu.be/R8_veQiYBjI)
+- [X] [Github actions (techworldwithnana)](https://youtu.be/R8_veQiYBjI)
 - [X]  [Learn Jenkins](https://www.youtube.com/watch?v=6YZvp2GwT0A&t=2178s)
 - [X] [Jenkins Tutorial(FCC) ](https://www.youtube.com/watch?v=f4idgaq2VqA)
 - [ ] [GitHub actions with cloud run](https://youtu.be/eooi60Mks_0)
