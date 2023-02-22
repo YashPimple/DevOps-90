@@ -115,7 +115,7 @@
 
 ## DevOps Project
 - [X] [Docker kubernetes java project](https://www.youtube.com/watch?v=0GgBi8yNQT4&t=1648s)
-- []  [Jenkins CI/CD with github Integration Project](https://www.youtube.com/watch?v=nplH3BzKHPk&list=PLlfy9GnSVerRqYJgVYO0UiExj5byjrW8u&index=15&t=4915s)
+- [X] [Jenkins CI/CD with github Integration Project](https://www.youtube.com/watch?v=nplH3BzKHPk&list=PLlfy9GnSVerRqYJgVYO0UiExj5byjrW8u&index=15&t=4915s)
 
 # Sample Project Ideas
 
