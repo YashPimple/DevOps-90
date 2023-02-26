@@ -83,6 +83,7 @@
 - [ ] [Crossplane composition deepdive](https://youtu.be/78xR7ypzB4Q)
 - [ ] [Learn pulumi](https://youtu.be/vIjeiDcsR3Q)
 
+
 ## Observability
 - [ ] [Getting started with Jaeger](https://youtu.be/aMZoUIG-mgY)
 - [ ] [Getting dirty with Monitoring and Autoscaling Features for Self Managed Kubernetes cluster](https://youtu.be/TqfIfUuuPdE)
@@ -107,8 +108,6 @@
 - [ ] [OPA deep dive](https://youtu.be/J6tM9O-0LvI)
 - [ ] [Various policy engines for Kubernetes](https://youtu.be/gKQOq7904h8)
 - [ ] [Styra Academy](https://academy.styra.com/courses/opa-rego)
-
-
 
 ## Servicemesh
 - [ ] [Introduction to Service mesh with Linkerd](https://www.edx.org/course/introduction-to-service-mesh-with-linkerd)
