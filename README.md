@@ -13,7 +13,6 @@
 
 => Roadmap modified using [Saiyam Pathak's Roadmap](https://www.youtube.com/watch?v=7l_n97Mt0ko)
 
-
 ## Getting Started
 - [X] [DevOps Prerequisite (freecodecamp)](https://youtu.be/Wvf0mBNGjXY)
 - [ ] [CCNA part 1](https://youtu.be/rv3QK2UquxM)
