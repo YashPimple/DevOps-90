@@ -58,7 +58,7 @@
 - [X] [Intro to Helm and Handson Tutorial](https://www.youtube.com/watch?v=gg-GuHs8Nsk&list=PLnFWJCugpwfzCjufOk52ufg7CDxpLEmXi&index=2)
 
 ## CI/CD
-- [ ] [Jenkins complete course](https://youtu.be/FX322RVNGj4)
+- [X] [Jenkins complete course](https://youtu.be/FX322RVNGj4)
 - [X] [Github actions (techworldwithnana)](https://youtu.be/R8_veQiYBjI)
 - [X]  [Learn Jenkins](https://www.youtube.com/watch?v=6YZvp2GwT0A&t=2178s)
 - [X] [Jenkins Tutorial(FCC) ](https://www.youtube.com/watch?v=f4idgaq2VqA)
