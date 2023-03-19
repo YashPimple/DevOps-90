@@ -70,7 +70,7 @@
 
 - [X] [Chef Vs Puppet Vs Ansible](https://www.youtube.com/watch?v=_TVNCTK808I)
 - [X] [What Is Ansible](https://www.youtube.com/watch?v=wgQ3rHFTM4E)
-- [ ] [Chef,Puppet,Ansible Course](https://www.youtube.com/watch?v=O1s16cYzC10)
+- [X] [Chef,Puppet,Ansible Course](https://www.youtube.com/watch?v=O1s16cYzC10)
 - [ ] [Ansible Docs](https://docs.ansible.com/ansible/latest/index.html)
 - [ ] [Ansible Tutorial for Beginners: Ultimate Playbook & Examples - Spacelift](https://spacelift.io/blog/ansible-tutorial)
 
