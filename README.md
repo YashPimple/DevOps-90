@@ -75,6 +75,7 @@
 - [ ] [Ansible Tutorial for Beginners: Ultimate Playbook & Examples - Spacelift](https://spacelift.io/blog/ansible-tutorial)
 
 ## IAC tools
+
 - [ ] [Terrafrom in 2 hours (freecodecamp)](https://youtu.be/SLB_c_ayRMo)
 - [ ] [Hashicorp terraform accociate certification (freecodecamp)](https://youtu.be/V4waklkBC38)
 - [ ] [Crossplane CNCFMinutes](https://youtu.be/NLHmqVUvtkU)
