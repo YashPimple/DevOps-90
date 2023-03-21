@@ -83,7 +83,6 @@
 - [ ] [Crossplane composition deepdive](https://youtu.be/78xR7ypzB4Q)
 - [ ] [Learn pulumi](https://youtu.be/vIjeiDcsR3Q)
 
-
 ## Observability
 - [ ] [Getting started with Jaeger](https://youtu.be/aMZoUIG-mgY)
 - [ ] [Getting dirty with Monitoring and Autoscaling Features for Self Managed Kubernetes cluster](https://youtu.be/TqfIfUuuPdE)
@@ -111,7 +110,6 @@
 
 ## Servicemesh
 - [ ] [Introduction to Service mesh with Linkerd](https://www.edx.org/course/introduction-to-service-mesh-with-linkerd)
-
 
 ## DevOps Project
 - [X] [Docker kubernetes java project](https://www.youtube.com/watch?v=0GgBi8yNQT4&t=1648s)
