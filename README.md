@@ -64,6 +64,8 @@
 - [X] [Jenkins Tutorial(FCC) ](https://www.youtube.com/watch?v=f4idgaq2VqA)
 - [ ] [GitHub actions with cloud run](https://youtu.be/eooi60Mks_0)
 - [ ] [CI/CD week](https://www.youtube.com/playlist?list=PL5uLNcv9SibC0Osfk9Nhf7MgP2UNzZkDR)
+- [X] [What is GitOps?](https://www.youtube.com/watch?v=f5EpcWp0THw&t=0s)
+- [X] [ArgoCD Tutorial for Beginners | GitOps CD for Kubernetes](https://www.youtube.com/watch?v=MeU5_k9ssrs&t=26s)
 - [ ] [Get Certified for GitOps with Argo](https://codefresh.learnworlds.com/)
 
 ## Configuration Management
@@ -115,6 +117,7 @@
 - [X] [Docker kubernetes java project](https://www.youtube.com/watch?v=0GgBi8yNQT4&t=1648s)
 - [X] [Jenkins CI/CD with github Integration Project](https://www.youtube.com/watch?v=nplH3BzKHPk&list=PLlfy9GnSVerRqYJgVYO0UiExj5byjrW8u&index=15&t=4915s)
 - [X] [Deploying Reddit Clone with Kubernetes Ingress using Jenkins on AWS](https://www.youtube.com/watch?v=9tl0A_rwgu4)
+- [ ] [Project-4]
 
 # Sample Project Ideas
 
