@@ -118,7 +118,7 @@
 - [X] [Jenkins CI/CD with github Integration Project](https://www.youtube.com/watch?v=nplH3BzKHPk&list=PLlfy9GnSVerRqYJgVYO0UiExj5byjrW8u&index=15&t=4915s)
 - [X] [Deploying Reddit Clone with Kubernetes Ingress using Jenkins on AWS](https://www.youtube.com/watch?v=9tl0A_rwgu4)
 - [X] [Deploying-webgame-using-ArgoCD-and-Jenkins](https://github.com/YashPimple/Deploying-webgame-using-ArgoCD-and-Jenkins)
-- [ ] [Deployment-on-EKS-with-Prometheus-and-Grafana](https://github.com/YashPimple/Deployment-on-EKS-with-Prometheus-and-Grafana)
+- [X] [Deployment-on-EKS-with-Prometheus-and-Grafana](https://github.com/YashPimple/Deployment-on-EKS-with-Prometheus-and-Grafana)
 # Sample Project Ideas
 
 - [11 Projects With Go](https://www.youtube.com/watch?v=jFfo23yIWac)
