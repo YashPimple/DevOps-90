@@ -1,0 +1,28 @@
+# Steps
+
+curl -O https://s3.us-east-1.amazonaws.com/amazon-eks/1.25.6/2023-01-30/bin/linux/amd64/kubectl
+curl --silent --location "https://github.com/weaveworks/eksctl/releases/latest/download/eksctl_$(uname -s)_amd64.tar.gz" | tar xz -C /tmp
+
+# Move the extracted binary to /usr/local/bin.
+sudo mv /tmp/eksctl /usr/local/bin
+
+# Creating an Amazon EKS cluster using eksctl
+
+eksctl create cluster 
+> --name eks \
+> --version 1.24 \ 
+> --region ap-northeast-1 \
+> --nodegroup-name worker-nodes \
+> --node-type t2.micro \
+> --nodes 2 \
+> --nodes-min 2 \
+> --nodes-max 3 \
+
+# Name of the cluster : --eks
+# Version of Kubernetes : --version 1.24
+# Region : --region us-east-1
+# Nodegroup name/worker nodes : --nodegroup-name worker-nodes
+# Node Type : --nodegroup-type t2.micro
+# Number of nodes: --nodes 2
+# Minimum Number of nodes: --nodes-min 2
+# Maximum Number of nodes: --nodes-max 3
