@@ -1,6 +1,7 @@
 
 |                                                 Blogs                                                  | Description   |  Page (Link- clickable)          |
 |-----------------------------------------------------------------------------------------------------------|-------------|:---------------------------:|
+|![Deploy a Node.js App using Jenkins on AWS EC2 instances]()|Scaling Your Containers with Amazon ECS and ECR: A Practical Tutorial|[Link]()|
 |![Deploy a Node.js App using Jenkins on AWS EC2 instances](https://user-images.githubusercontent.com/97302447/224563678-1d4e8cb2-6996-4b3d-89fb-1f9828ef0933.png)|Deploy a Node.js App using Jenkins on AWS EC2 instances|[Link](https://devopscommunity.hashnode.dev/deploy-a-nodejs-app-using-jenkins-on-aws-ec2-instances)|
 |![Helm 101: A Beginner's Guide to Efficient Cluster Management with Hands-On Examples](https://user-images.githubusercontent.com/97302447/220530971-660df3f2-d3d0-4d02-94fb-dd4e9d9e71df.jpg)|Helm 101: A Beginner's Guide to Efficient Cluster Management with Hands-On Examples|[Link](https://yashpimple.hashnode.dev/helm-101-a-beginners-guide-to-efficient-cluster-management-with-hands-on-examples-1)| 
 |![Beginner's Guide to Github Actions](https://user-images.githubusercontent.com/97302447/220530990-97da7213-95c3-4ac3-b7d7-aab4f5b51dfe.jpg)|Beginner's Guide to Github Actions|[Link](https://yashpimple.hashnode.dev/beginners-guide-to-github-actions)| 
