@@ -15,5 +15,11 @@ Amazon Elastic Kubernetes Service is a fully managed Kubernetes service provided
 - Amazon EKS eliminates the complexity of managing the Kubernetes control plane and automates the provisioning, scaling, and management of the infrastructure for you. This allows us to focus on deploying and managing your applications instead of managing the underlying infrastructure.
 - Overall, Amazon EKS simplifies the process of deploying and managing Kubernetes clusters, providing a reliable, scalable, and secure platform for containerized applications in the cloud.
 
+## AWS Elastic Beanstalk
+![AWS-Elastic-Beanstalk](https://user-images.githubusercontent.com/97302447/236663960-fffe27ac-4b53-4265-8e7a-26dce1f1bd6d.jpeg)
+
+AWS Elastic Beanstalk is a fully managed service that helps you deploy, manage, and scale your **web applications** and services. With **AWS Elastic Beanstalk** , we can upload your application code to the service, and Elastic Beanstalk will take care of provisioning the necessary resources to run your application, such as EC2 instances, load balancers, and databases. It also automatically handles tasks such as capacity provisioning, software updates, and monitoring, so you can focus on developing your application instead of worrying about infrastructure management.
+It is a powerful and flexible service that simplifies the process of deploying, managing, and scaling **web applications** and **services**. Whether you're deploying a simple web application or a complex multi-tier architecture
+
 
 ## CodePipeline
