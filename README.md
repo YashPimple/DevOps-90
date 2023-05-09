@@ -115,10 +115,11 @@
 
 ## DevOps Project
 - [X] [Docker kubernetes java project](https://www.youtube.com/watch?v=0GgBi8yNQT4&t=1648s)
-- [X] [Jenkins CI/CD with github Integration Project](https://www.youtube.com/watch?v=nplH3BzKHPk&list=PLlfy9GnSVerRqYJgVYO0UiExj5byjrW8u&index=15&t=4915s)
-- [X] [Deploying Reddit Clone with Kubernetes Ingress using Jenkins on AWS](https://www.youtube.com/watch?v=9tl0A_rwgu4)
+- [X] [Jenkins CI/CD with github Integration Project](https://github.com/YashPimple/Jenkins-CI-CD-with-GitHub-Integration)
+- [X] [Deploying Reddit Clone with Kubernetes Ingress using Jenkins on AWS](https://github.com/YashPimple/reddit-clone-yt)
 - [X] [Deploying-webgame-using-ArgoCD-and-Jenkins](https://github.com/YashPimple/Deploying-webgame-using-ArgoCD-and-Jenkins)
-- [X] [Deployment-on-EKS-with-Prometheus-and-Grafana](https://github.com/YashPimple/Deployment-on-EKS-with-Prometheus-and-Grafana)
+- [X] [Deployment-of-web-app-using-ECS-and-ECR](https://github.com/YashPimple/Deployment-of-web-app-using-ECS-and-ECR)
+- 
 # Sample Project Ideas
 
 - [11 Projects With Go](https://www.youtube.com/watch?v=jFfo23yIWac)
