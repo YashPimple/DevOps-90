@@ -119,7 +119,7 @@
 - [X] [Deploying Reddit Clone with Kubernetes Ingress using Jenkins on AWS](https://github.com/YashPimple/reddit-clone-yt)
 - [X] [Deploying-webgame-using-ArgoCD-and-Jenkins](https://github.com/YashPimple/Deploying-webgame-using-ArgoCD-and-Jenkins)
 - [X] [Deployment-of-web-app-using-ECS-and-ECR](https://github.com/YashPimple/Deployment-of-web-app-using-ECS-and-ECR)
-- 
+
 # Sample Project Ideas
 
 - [11 Projects With Go](https://www.youtube.com/watch?v=jFfo23yIWac)
