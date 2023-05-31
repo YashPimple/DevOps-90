@@ -121,6 +121,9 @@
 ## Servicemesh
 - [ ] [Introduction to Service mesh with Linkerd](https://www.edx.org/course/introduction-to-service-mesh-with-linkerd)
 
+## Webassembly(WASM)
+- [X] [What is WebAssembly?](https://www.youtube.com/watch?v=7553XZ0T6pM)
+
 ## DevOps Project
 - [X] [Docker kubernetes java project](https://www.youtube.com/watch?v=0GgBi8yNQT4&t=1648s)
 - [X] [Jenkins CI/CD with github Integration Project](https://github.com/YashPimple/Jenkins-CI-CD-with-GitHub-Integration)
