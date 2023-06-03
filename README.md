@@ -123,6 +123,10 @@
 
 ## Webassembly(WASM)
 - [X] [What is WebAssembly?](https://www.youtube.com/watch?v=7553XZ0T6pM)
+- [ ] [Managing Webassembly application with Kubernetes](https://youtu.be/VCYdz_eKEaE)
+
+## CNCFMinutes
+- [X] [Cloud Native Buildpacks (CNCFMinutes 23)](https://youtu.be/nG7N6SLNO4Q)
 
 ## DevOps Project
 - [X] [Docker kubernetes java project](https://www.youtube.com/watch?v=0GgBi8yNQT4&t=1648s)
