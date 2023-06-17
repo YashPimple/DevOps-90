@@ -129,6 +129,7 @@
 
 ## CNCFMinutes
 - [X] [Cloud Native Buildpacks (CNCFMinutes 23)](https://youtu.be/nG7N6SLNO4Q)
+- [ ] [Everything you need to know about Kubebuilder](https://youtu.be/_XUJ1HoinWA)
 
 ## DevOps Project
 - [X] [Docker kubernetes java project](https://www.youtube.com/watch?v=0GgBi8yNQT4&t=1648s)
