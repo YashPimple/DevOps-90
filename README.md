@@ -1,10 +1,10 @@
 # DevOps-90
 ![alt text](https://camo.githubusercontent.com/ca0d537a519d9ff9c7b9508798a2e4976857415daa26055349496fa922754b3e/68747470733a2f2f692e6962622e636f2f7942724e514e6e2f6465766f70732d62616e6e65722e706e67)
--This repository is used to document my journey on learning DevOps with [Saiyam Pathak] and getting a better foundational knowledge of Devops.I started my journey on the 11th July 2022.
+-This repository is used to document my journey on learning DevOps with [Saiyam Pathak](https://youtu.be/7l_n97Mt0ko) and getting a better foundational knowledge of DevOps.I started my journey on the 11th of July 2022.
 
 -The reason for documenting my journey and sharing my notes is to inspire people to learn DevOps and they can also the something from it.
--Goal
 
+-Goal
 90 Days -> 1-2 hour/day => tackle over 13 areas of DevOps to a foundational knowledge.
 
 => Inspired from [Michael Cade's 90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
@@ -14,7 +14,7 @@
 ## Getting Started
 - [X] [DevOps Prerequisite (freecodecamp)](https://youtu.be/Wvf0mBNGjXY)
 - [ ] [CCNA part 1](https://youtu.be/rv3QK2UquxM)
-- [ ] [Golang complete course (techworldwithnana)](https://youtu.be/yyUHQIec83I)
+- [X] [Golang complete course (techworldwithnana)](https://youtu.be/yyUHQIec83I)
 - [X] [Introduction to linux and Terminal Command](https://www.youtube.com/watch?v=iwolPf6kN-k&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=4&t=6189s)
 - [X] [Computer Networking Full course (Kunal Kushwaha)](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=3&t=13131s)
 
@@ -80,7 +80,7 @@
 
 - [X] [Chef Vs Puppet Vs Ansible](https://www.youtube.com/watch?v=_TVNCTK808I)
 - [X] [What Is Ansible](https://www.youtube.com/watch?v=wgQ3rHFTM4E)
-- [X] [Chef,Puppet,Ansible Course](https://www.youtube.com/watch?v=O1s16cYzC10)
+- [X] [Chef, Puppet, Ansible Course](https://www.youtube.com/watch?v=O1s16cYzC10)
 - [ ] [Ansible Docs](https://docs.ansible.com/ansible/latest/index.html)
 - [ ] [Ansible Tutorial for Beginners: Ultimate Playbook & Examples - Spacelift](https://spacelift.io/blog/ansible-tutorial)
 
@@ -144,6 +144,3 @@
 - [11 Projects With Go](https://www.youtube.com/watch?v=jFfo23yIWac)
 - [DevOps Project](https://www.youtube.com/playlist?list=PLxzKY3wu0_FJdJd3IKdiM4Om1hGo2Hsdt)
 - [20 Real Time DevOps Projects](https://youtube.com/playlist?list=PLkWRCY_kK0Gh1NTvgHUE0naF4-mOURp7e)
-
-
-
