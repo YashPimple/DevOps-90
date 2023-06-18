@@ -122,6 +122,7 @@
 - [ ] [Introduction to Service mesh with Linkerd](https://www.edx.org/course/introduction-to-service-mesh-with-linkerd)
 - [X] [Istio & Service Mesh](https://youtu.be/16fgzklcF7Y)
 - [X] [Istio Setup in Kubernetes](https://youtu.be/voAyroDb6xk)
+- [X] [Get Started with Istio (with Fundamentals for Istio Certification)](https://academy.solo.io/get-started-with-istio)
 
 ## Webassembly(WASM)
 - [X] [What is WebAssembly?](https://www.youtube.com/watch?v=7553XZ0T6pM)
