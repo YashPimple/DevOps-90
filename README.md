@@ -28,7 +28,7 @@
 - [X] [Complete Git and GitHub Tutorial (Kunal Kushwaha)](https://youtu.be/apGV9Kg7ics)
 - [X] [Git for Professionals (freecodecamp)](https://youtu.be/Uszj_k0DGsg)
 
-## GoLang
+## Golang
 
 - [ ] [Learn Go - Codecademy](https://www.codecademy.com/learn/learn-go)
 - [ ] [Getting started - Go](https://go.dev/learn/)
@@ -146,3 +146,4 @@
 - [11 Projects With Go](https://www.youtube.com/watch?v=jFfo23yIWac)
 - [DevOps Project](https://www.youtube.com/playlist?list=PLxzKY3wu0_FJdJd3IKdiM4Om1hGo2Hsdt)
 - [20 Real Time DevOps Projects](https://youtube.com/playlist?list=PLkWRCY_kK0Gh1NTvgHUE0naF4-mOURp7e)
+- [Writing a Kubernetes Operator from Scratch Using Kubebuilder](https://youtu.be/LLVoyXjYlYM)
