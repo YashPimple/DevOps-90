@@ -97,7 +97,7 @@
 - [ ] [Getting started with Jaeger](https://youtu.be/aMZoUIG-mgY)
 - [ ] [Getting dirty with Monitoring and Autoscaling Features for Self Managed Kubernetes cluster](https://youtu.be/TqfIfUuuPdE)
 - [ ] [Intro to Kubernetes monitoring](https://youtu.be/B5UY-qeW96I)
-- [ ] [Prometheus CNCFMinutes](https://youtu.be/llwxJ0VdYWY)
+- [X] [Prometheus CNCFMinutes](https://youtu.be/llwxJ0VdYWY)
 - [ ] [Thanos CNCFMinutes](https://youtu.be/Pr3MbsGHljI)
 - [ ] [Thanos deep dive](https://youtu.be/nYV_wU7_Xm0)
 
@@ -122,7 +122,7 @@
 - [ ] [Introduction to Service mesh with Linkerd](https://www.edx.org/course/introduction-to-service-mesh-with-linkerd)
 - [X] [Istio & Service Mesh](https://youtu.be/16fgzklcF7Y)
 - [X] [Istio Setup in Kubernetes](https://youtu.be/voAyroDb6xk)
-- [X] [Get Started with Istio (with Fundamentals for Istio Certification)](https://academy.solo.io/get-started-with-istio)
+- [ ] [Get Started with Istio (with Fundamentals for Istio Certification)](https://academy.solo.io/get-started-with-istio)
 
 ## Webassembly(WASM)
 - [X] [What is WebAssembly?](https://www.youtube.com/watch?v=7553XZ0T6pM)
