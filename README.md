@@ -146,3 +146,4 @@
 - [DevOps Project](https://www.youtube.com/playlist?list=PLxzKY3wu0_FJdJd3IKdiM4Om1hGo2Hsdt)
 - [20 Real Time DevOps Projects](https://youtube.com/playlist?list=PLkWRCY_kK0Gh1NTvgHUE0naF4-mOURp7e)
 - [Writing a Kubernetes Operator from Scratch Using Kubebuilder](https://youtu.be/LLVoyXjYlYM)
+- [Creating a Scalar Operator]()
