@@ -1,7 +1,10 @@
 ## AWS Cloud Cost Optimization - Identifying Stale Resources
 
-### Identifying Stale EBS Snapshots
-In this example, we'll create a Lambda function that identifies EBS snapshots that are no longer associated with any active EC2 instance and deletes them to save on storage costs.
-
 ### Description:
-The Lambda function fetches all EBS snapshots owned by the same account ('self') and also retrieves a list of active EC2 instances (running and stopped). For each snapshot, it checks if the associated volume (if exists) is not associated with any active instance. If it finds a stale snapshot, it deletes it, effectively optimizing storage costs.
+This project showcases a Lambda function designed to optimize cloud costs by identifying and eliminating stale EBS snapshots in AWS. **Stale snapshots** are those that are no longer associated with any active EC2 instance, contributing to unnecessary storage costs.
+
+### Working:
+
+1. The Lambda function retrieves all EBS snapshots owned by the account ('self') alongside compiling a list of active EC2 instances (running and stopped).
+2. For each snapshot, it checks if the associated volume (if present) is not associated with any active instance.
+3. If a stale snapshot is detected, the Lambda function deletes it, resulting in significant savings on storage expenses.
