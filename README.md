@@ -4,7 +4,6 @@
 -This repository is used to document my journey on learning DevOps with [Saiyam Pathak](https://youtu.be/7l_n97Mt0ko) and getting a better foundational knowledge of DevOps.I started my journey on the 11th of July 2022.
 
 -The reason for documenting my journey and sharing my notes is to inspire people to learn DevOps and they can also the something from it.
-
 -Goal:
 90 Days -> 1-2 hour/day => tackle over 13 areas of DevOps to a foundational knowledge.
 
