@@ -2,6 +2,10 @@
 
 Deploying a 2048 game using EKS, ALB, and Ingress
 
+<p align="center">
+<img width="366" alt="Visual" src="https://github.com/YashPimple/DevOps-90/assets/97302447/07834d3d-f359-4e2f-8e8d-7ab23c1edac5">
+</p>
+
 ## Prerequisites
 
 kubectl – A command line tool for working with Kubernetes clusters. For more information, see [Installing or updating kubectl]("https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html").
