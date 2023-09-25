@@ -38,6 +38,7 @@
 
 ## cloud
 - [ ] [AWS cloud practitioner (freecodecamp)](https://youtu.be/SOTamWNgDKc)
+- [ ] [AWS Solution Architect Associate]()
 
 ## docker
 - [X] [Docker Tutorial for begineer](https://www.youtube.com/watch?v=17Bl31rlnRM&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=6)
