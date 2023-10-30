@@ -39,19 +39,12 @@
 -     sudo systemctl enable puppet
 - sudo systemctl restart puppet
 - sudo systemctl status puppet
-    9  history
-   10  sudo cat /etc/hosts
-   11  sudo systemctl status puppet
-   12  sudo systemctl restart puppet
-   13  sudo systemctl status puppet
-   14  sudo systemctl restart puppet
-   15  sudo systemctl status puppet
-   16  sudo systemctl restart puppet
-   17  sudo systemctl enable puppet
-   18  sudo systemctl restart puppet
-   19  sudo systemctl status puppet
-   20  sudo /opt/puppetlabs/bin/puppet agent --test
-   21  sudo puppet agent --test
-   22  sudo cat /tmp/puppet_test.txt
-   23  sudo puppet agent --test
-   24  sudo cat /tmp/puppet_test.txt
+- sudo cat /etc/hosts
+- sudo systemctl status puppet
+- sudo systemctl restart puppet
+- sudo systemctl status puppet
+- sudo systemctl enable puppet
+- sudo /opt/puppetlabs/bin/puppet agent --test
+- sudo puppet agent --test
+- sudo cat /tmp/puppet_test.txt
+- sudo puppet agent --test
