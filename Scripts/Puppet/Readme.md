@@ -34,11 +34,11 @@
 - curl -O https://apt.puppetlabs.com/puppet6-release-bionic.deb
 - sudo dpkg -i puppet6-release-bionic.deb
 - sudo apt-get update
-    4  sudo apt-get install puppet
-    5  sudo vi /etc/hosts
-    6  sudo systemctl enable puppet
-    7  sudo systemctl restart puppet
-    8  sudo systemctl status puppet
+- sudo apt-get install puppet
+-   sudo vi /etc/hosts
+-     sudo systemctl enable puppet
+- sudo systemctl restart puppet
+- sudo systemctl status puppet
     9  history
    10  sudo cat /etc/hosts
    11  sudo systemctl status puppet
